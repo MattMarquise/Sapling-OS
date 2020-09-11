@@ -1,2 +1,2 @@
 # SaplingOS
-SaplingOS is 
+SaplingOS is s
