@@ -1,2 +1,2 @@
 # SaplingOS
-SaplingOS is wesite 
+SaplingOS is website 
