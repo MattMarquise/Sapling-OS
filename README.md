@@ -1,2 +1,2 @@
 # SaplingOS
-SaplingOS is site 
+SaplingOS is wsite 
