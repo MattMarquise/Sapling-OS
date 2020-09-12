@@ -1,2 +1,2 @@
 # SaplingOS
-SaplingOS is si
+SaplingOS is sit
