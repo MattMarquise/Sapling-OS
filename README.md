@@ -1,2 +1,2 @@
 # SaplingOS
-SaplingOS is website that 
+SaplingOS is website that a
