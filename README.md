@@ -1,2 +1,2 @@
 # SaplingOS
-SaplingOS is a site that allows developers oto easily
+SaplingOS is a site that allows developers ofto easily
