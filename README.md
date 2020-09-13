@@ -1,2 +1,2 @@
 # SaplingOS
-SaplingOS is a wesite that allows developers to easily
+SaplingOS is a wsite that allows developers to easily
