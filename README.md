@@ -1,2 +1,2 @@
 # SaplingOS
-SaplingOS is website that allows developers to ea
+SaplingOS is website that allows developers to eas
