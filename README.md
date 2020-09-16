@@ -1,2 +1,2 @@
 # SaplingOS
-SaplingOS is a site that allows developers of all skill levels to easily find the compone
+SaplingOS is a site that allows developers of all skill levels to easily find the componen
