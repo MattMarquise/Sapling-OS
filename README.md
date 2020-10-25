@@ -1,3 +1,3 @@
 # Sapling-OS
-Sapling-OS Coming Soon.
+Sapling-OS: Coming Soon.
 
